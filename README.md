@@ -4,8 +4,7 @@ This project uses machine learning models to predict the 2025 NBA Finals Champio
 
 ## Files
 - `nba_finals_predictor.ipynb`: Jupyter Notebook containing data preparation, model training, and evaluation.
-- `final_report.docx`: Final project report describing methodology, results, and discussion.
-
+  
 ## Methods Used
 - Logistic Regression
 - Random Forest Classifier
